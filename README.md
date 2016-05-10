@@ -70,6 +70,7 @@ For the second project, you will use your knowledge of front-end and back-end we
 
 **Your app should have all of the following:**
 
+* **Rails:** Use Rails as the core framework for Ruby.
 * **PostgreSQL:** Use PostgreSQL for your database in development and production.
 * **Data Models** Include at least two data models with associations.
 * **Data Validation:** Your application should validate incoming data before entering it into the database.
@@ -78,7 +79,6 @@ For the second project, you will use your knowledge of front-end and back-end we
 * **Views:** Use **partials** to follow DRY (Don’t Repeat Yourself) development in your views.
 * **Home & About Pages:** Create a landing page (homepage) that clearly explains your app's value proposition and guides the user through the "get started" funnel. Crete an about page that includes photos and brief bios of your team members.
 * **User Experience:** Ensure a pleasing and logical user experience. Use a framework like Bootstrap to enhance and ease your CSS styling.
-* **JavaScript & jQuery:** Add dynamic client-side behavior with event-driven functionality.
 * **Responsive Design:** Make sure your app looks great on a phone or tablet.
 * **Heroku:** Deploy your app to Heroku. Ensure no app secrets are exposed. *Do not commit secret keys to GitHub!*
 
@@ -90,6 +90,7 @@ For the second project, you will use your knowledge of front-end and back-end we
 * **AJAX** Use AJAX to communicate with the server without reloading the page when appropriate.
 * **External APIs** Use HTTParty or a third-party API back-end gem to integrate third-party data into your app.
 * **Paperclip** Upload files with Paperclip.
+* **JavaScript & jQuery:** Add dynamic client-side behavior with event-driven functionality.
 * **User-Friendly URLs:** Make pretty URLs that don't expose database IDs.
 
 ---
