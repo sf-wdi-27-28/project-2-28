@@ -165,7 +165,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 * MATT
 * ADRIANNA
 
-#### Group 5 - TBD (NATHAN)
+#### Group 5 - GA Social Media (NATHAN)
 
 * BOB
 * SAM
