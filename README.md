@@ -138,40 +138,39 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### Who are my group members and assigned instructor?
 
-#### Group 1 - TBD (JC)
+#### Group 1 - Recipes from Ingredients (JUSTIN)
 
-* TBD
-* TBD
-* TBD
-* TBD
+* MELISSA
+* FRANKLIN
+* LOTUS
 
-#### Group 2 - TBD (NA)
+#### Group 2 - Slack Art Integration (NATHAN)
 
-* TBD
-* TBD
-* TBD
-* TBD
+* ADRIANNA
+* MICHAEL 
+* ANNA 
+* JUSTIN
 
-#### Group 3 - TBD (JL)
+#### Group 3 - Human Waze (JULIANA)
 
-* TBD
-* TBD
-* TBD
-* TBD
+* EMILY
+* ADAM
+* CHRISTINE
+* HECTOR
 
-#### Group 4 - TBD (NA)
+#### Group 4 - Budget Trip Planning (JULIANA)
 
-* TBD
-* TBD
-* TBD
-* TBD
+* AMEER
+* SCOTT
+* MATT
+* MORGAN
 
-#### Group 5 - TBD (JL)
+#### Group 5 - TBD (NATHAN)
 
-* TBD
-* TBD
-* TBD
-* TBD
+* BOB
+* SAM
+* SEAN
+* HILA
 
 ---
 
