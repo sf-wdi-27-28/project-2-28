@@ -146,7 +146,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 #### Group 2 - Slack Art Integration (NATHAN)
 
-* ADRIANNA
+* MORGAN
 * MICHAEL 
 * ANNA 
 * JUSTIN
@@ -163,7 +163,7 @@ If you want to push yourself and learn something new, optionally consider doing 
 * AMEER
 * SCOTT
 * MATT
-* MORGAN
+* ADRIANNA
 
 #### Group 5 - TBD (NATHAN)
 
